@@ -10,6 +10,7 @@ namespace Labo1
     {
         static void Main(string[] args)
         {
+            System.Console.Write("stampa 1 ");
         }
     }
 }
