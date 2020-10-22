@@ -13,6 +13,7 @@ namespace Labo1
             System.Console.Write("stampa 1 ");
 
             System.Console.Write("stampa 1 ");
+
             System.Console.Write("stampa 1 ");
         }
     }
